@@ -1,9 +1,11 @@
-b {
-color:red
+b{
+    color: red;
 }
 
 .custom-button {
     width: 200px;
     height: 200px;
     font-size: 100px;
+    color: white;
+background-color: brown;
 }
